@@ -4,5 +4,5 @@
 -  :woman_technologist: I'm frontend mentor in GDSC Tanta University
 - :handshake: I’m looking to collaborate on some web projects.
 - :pray: I’m looking for internship and job.
-- :fax: How to reach me:[rahmaaesmail26@gmail.com](rahmaaesmail26@gmail.com)
+- :fax: How to reach me: [rahmaaesmail26@gmail.com](rahmaaesmail26@gmail.com) or [https://www.linkedin.com/in/rahma-esmail](https://www.linkedin.com/in/rahma-esmail)
 - :technologist: I love Coding,problem solving,programming....
